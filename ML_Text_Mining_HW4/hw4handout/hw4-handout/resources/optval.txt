@@ -1,0 +1,3 @@
+dataset                 C       n       d       lambda=C*n   cv5-acc     optval
+real-sim.scale.trn    0.125     57847   20958   7230.875     97.3655%    669.664812
+covtye.scale.trn      0.0078125 464809  54      3631.3203125 75.6661%    2541.664519
