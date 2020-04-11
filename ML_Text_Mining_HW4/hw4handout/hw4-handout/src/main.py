@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def main():
     # read the train file from first arugment
-    print("run main.py")
+    # print("run main.py")
     train_file = sys.argv[1]
 
     # read the test file from second argument
