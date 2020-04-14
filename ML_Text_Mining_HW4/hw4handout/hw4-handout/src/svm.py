@@ -18,7 +18,6 @@ class Svm(object):
             self.f_w_star = 669.664812
             self.lam = 7230.875
             self.epoch = 3000
-            # self.epoch = 5
             self.r_0 = 0.0007
             self.beta = 0.2
             self.batch_size = 1000
@@ -27,7 +26,6 @@ class Svm(object):
             print("covtype data")
             self.f_w_star = 2541.664519
             self.lam = 3631.3203125
-            # self.epoch = 3000
             self.epoch = 500
             self.r_0 = 0.00025
             self.beta = 0.2
